@@ -1,2 +1,2 @@
-# Python
-Python games and exercises
+# Python exercises
+Python games and exercises I wrote during Python course I took.
